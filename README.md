@@ -15,11 +15,13 @@ Frameworks: React
 Languages: JavaScript, Python, HTML, CSS
 Learning: Node.js, C#
 Hobbies: Gaming
-Commits: 22
+Commits: 9
 Stars: 0
 Discord: [~] SHUJA BALOCH#7976
 Websites: pakbch.ml - Porfolio
           pak4chill.ml - Movies/Series Streaming Site
+-------------------------
+
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
