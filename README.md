@@ -2,12 +2,12 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.ibb.co/xMCzvv0/PAKBCH.png" alt="Made By Shuja Ahmed (https://pakbch.ml)" width="320" /> 
+<img align="left" src="https://i.ibb.co/nBmNKS6/pak-bch.png" alt="Made By Shuja Ahmed (https://pakbch.ml)" width="320" /> 
 
 ```csharp
 pakbch@github
 -------------------------
-OS: Arch Linux X Win 11
+OS: Arch Linux / Win 11
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: Pakistan/Karachi
