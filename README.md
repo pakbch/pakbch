@@ -20,6 +20,7 @@ Stars: 0
 Discord: [~] SHUJA BALOCH#7976
 Websites: pakbch.ml - Porfolio
           pak4chill.ml - Movies/Series Streaming Site
+Visitors: ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pakbch)
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
