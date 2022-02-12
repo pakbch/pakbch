@@ -15,7 +15,7 @@ Frameworks: React
 Languages: JavaScript, Python, HTML, CSS
 Learning: Node.js, C#
 Hobbies: Gaming
-Commits: 9
+Commits: 44
 Stars: 0
 Discord: [~] SHUJA BALOCH#7976
 Websites: pakbch.ml - Porfolio
