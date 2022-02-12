@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://twitter.com/isupersky">
+<a href="https://twitter.com/Shuja67145701">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:shujaahmed132@gmail.com">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCCmyQE0Pd6VXPy1juNrcVlw">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://isupersky.medium.com/">
+<a href="https://pakbch.ml/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
