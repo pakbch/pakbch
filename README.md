@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.ibb.co/xMCzvv0/PAKBCH.png") 
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Made By Shuja Ahmed (https://pakbch.ml)" width="320" /> 
 
 ```csharp
 pakbch@github
@@ -18,7 +18,7 @@ Hobbies: Gaming
 Commits: 22
 Stars: 0
 Discord: [~] SHUJA BALOCH#7976
-Website: https://pakbch.ml/
+Websites: pakbch.ml - Porfolio / pak4chill.ml - Movies/Series Streaming Site
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
