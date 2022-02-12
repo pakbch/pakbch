@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.ibb.co/xMCzvv0/PAKBCH.png")" width="320" /> 
+<img align="left" src="https://i.ibb.co/xMCzvv0/PAKBCH.png") 
 
 ```csharp
 pakbch@github
