@@ -20,5 +20,9 @@ Websites: pakbch.ml - Porfolio
           pak4chill.ml - Movies/Series Streaming Site
 -------------------------
 ```
+```zsh
+
 # Profile Views!
 ![Visitor Count](https://profile-counter.glitch.me/pakbch/count.svg)
+
+```
