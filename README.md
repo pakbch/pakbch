@@ -21,8 +21,6 @@ Discord: [~] SHUJA BALOCH#7976
 Websites: pakbch.ml - Porfolio
           pak4chill.ml - Movies/Series Streaming Site
 -------------------------
-
-
-
-# Profile Views
+```
+# Profile Views!
 ![Visitor Count](https://profile-counter.glitch.me/pakbch/count.svg)
