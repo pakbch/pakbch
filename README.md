@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.ibb.co/xMCzvv0/PAKBCH.png" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://i.ibb.co/xMCzvv0/PAKBCH.png")" width="320" /> 
 
 ```csharp
 pakbch@github
@@ -12,13 +12,13 @@ Shell: zsh 5.8
 Pronouns: He/Him
 Location: Pakistan/Karachi
 Frameworks: React
-Languages: JavaScript, Python,
-           HTML, CSS
+Languages: JavaScript, Python, HTML, CSS
 Learning: Node.js, C#
 Hobbies: Gaming
 Commits: 22
 Stars: 0
 Discord: [~] SHUJA BALOCH#7976
+Website: https://pakbch.ml/
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
