@@ -1,5 +1,5 @@
 ```zsh
-> neofetch
+➜ neofetch
 ```
 
 <img align="left" src="https://i.ibb.co/nBmNKS6/pak-bch.png" alt="Made By Shuja Ahmed (https://pakbch.ml)" width="320" /> 
@@ -20,6 +20,7 @@ Websites: pakbch.ml - Porfolio
           pak4chill.ml - Movies/Series Streaming Site
 -------------------------
 ```
+
 
 
 # Profile Views!
