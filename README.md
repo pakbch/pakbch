@@ -26,4 +26,4 @@ Websites: pakbch.ml - Porfolio
 # Profile Views!
 ![Visitor Count](https://profile-counter.glitch.me/pakbch/count.svg)
 
-<script id="asciicast-468720" src="https://asciinema.org/a/468720.js" async></script>
+[![asciicast](https://asciinema.org/a/468720.svg)](https://asciinema.org/a/468720)
