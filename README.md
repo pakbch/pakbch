@@ -24,7 +24,7 @@ Websites: pakbch.ml - Porfolio
 
 
 # Profile Views!
-        ![Visitor Count](https://profile-counter.glitch.me/pakbch/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/pakbch/count.svg)
 
 
 
