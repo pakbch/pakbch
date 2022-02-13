@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Made By Shuja Ahmed (https://pakbch.ml)" width="320" /> 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" alt="Made By Shuja Ahmed (https://pakbch.ml)" width="320" /> 
 
 ```csharp
 pakbch@github
