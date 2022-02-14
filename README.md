@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://discord-image-logger.shuja1337.repl.co/" alt="Made By Shuja Ahmed" width="300" /> 
+<img align="left" src="https://freepikpsd.com/file/2019/10/squidward-png-Transparent-Images.png" alt="Made By Shuja Ahmed" width="120" /> 
 
 ```csharp
 pakbch@github
