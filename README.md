@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://discord-image-logger.shuja1337.repl.co/" alt="Made By Shuja Ahmed (https://pakbch.ml)" width="150" /> 
+<img align="left" src="https://discord-image-logger.shuja1337.repl.co/" alt="Made By Shuja Ahmed" width="300" /> 
 
 ```csharp
 pakbch@github
