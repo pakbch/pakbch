@@ -28,6 +28,6 @@ Websites: pakbch.ml - Porfolio
 
 
 # Github Stats
-# [![Pakch GitHub stats](https://github-readme-stats.vercel.app/api?username=pakbch)]
+# ![Pakch GitHub stats](https://github-readme-stats.vercel.app/api?username=pakbch)
 
 
