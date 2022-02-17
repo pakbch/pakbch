@@ -27,4 +27,7 @@ Websites: pakbch.ml - Porfolio
 ![Visitor Count](https://profile-counter.glitch.me/pakbch/count.svg)
 
 
+# Github Stats
+# [![Pakch GitHub stats](https://github-readme-stats.vercel.app/api?username=pakbch)](https://github.com/anuraghazra/github-readme-stats)
+
 
