@@ -6,19 +6,17 @@
 
 ```csharp
 pakbch@github
--------------------------
+==---------------------==
 OS: Arch Linux / Win 11
 Shell: zsh 5.8
-Pronouns: He/Him
 Location: Pakistan/Karachi
 Frameworks: React
 Languages: JavaScript, Python, HTML, CSS
 Learning: Node.js, C#
-Hobbies: Gaming
-Discord: shuja.sh#1337
-Websites: pakbch.ml - Porfolio
-          pak4chill.ml - Movies/Series Streaming Site
--------------------------
+Hobbies: Gaming, Hacking, Coding
+Discord: shuja.sh#0001
+Websites: Soon
+==---------------------==
 ```
 
 
