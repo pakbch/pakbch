@@ -7,15 +7,15 @@
 ```csharp
 pakbch@github
 ==---------------------==
-OS: Arch Linux / Win 11
-Shell: zsh 5.8
-Location: Pakistan/Karachi
-Frameworks: React
-Languages: JavaScript, Python, HTML, CSS
-Learning: Node.js, C#
-Hobbies: Gaming, Hacking, Coding
-Discord: shuja.sh#0001
-Websites: Soon
+OS          : Arch Linux / Win 11
+Shell       : zsh 5.8
+Location    : Pakistan/Karachi
+Frameworks  : React
+Languages   : JavaScript, Python, HTML, CSS
+Learning    : Node.js, C#
+Hobbies     : Gaming, Hacking, Coding
+Discord     : shuja.sh#0001
+Website     : pak-bch.ml
 ==---------------------==
 ```
 
