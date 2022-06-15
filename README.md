@@ -23,6 +23,3 @@ Website     : pak-bch.ml
 
 # Github Stats
 # ![Pakch GitHub stats](https://github-readme-stats.vercel.app/api?username=pakbch)
-
-# Trophies
-# ![trophy](https://github-profile-trophy.vercel.app/?username=pakbch)
