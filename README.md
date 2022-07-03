@@ -9,7 +9,7 @@ pakbch@github
 ==---------------------==
 OS          : Arch Linux / Win 11
 Shell       : zsh 5.8
-Location    : Pakistan/Karachi
+Location    : Pakistan
 Discord     : shuja.sh#0001
 Website     : pak-bch.ml
 ==---------------------==
