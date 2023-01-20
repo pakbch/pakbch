@@ -22,8 +22,3 @@ Website     : shuja.is-local.org
 
 # Profile Views!
 ![Visitor Count](https://profile-counter.glitch.me/pakbch/count.svg)
-
-
-# Github Stats
-# ![Pakch GitHub stats](https://github-readme-stats.vercel.app/api?username=pakbch)
-
