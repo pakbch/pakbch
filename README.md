@@ -13,4 +13,4 @@ Location    : 127.0.0.1
 Website     : shuja.is-local.org
 ---------------------
 ```
-![Visitor Count](https://profile-counter.glitch.me/pakbch/count.svg)
+-------------![Visitor Count](https://profile-counter.glitch.me/pakbch/count.svg)-------------
